@@ -14,5 +14,4 @@ The problem of measuring the color difference in images have been an interesting
 The other Files:  
 `hsv.m` 
 `lab.m`
-`rgbintensity.m`
-<br/> are for Comparison with our method <br/>
+`rgbintensity.m` are for Comparison with our method <br/>
