@@ -11,7 +11,8 @@ The problem of measuring the color difference in images have been an interesting
 
 ## Files
 `deltaE2000.m` is the file used to produce the results of our methodology <br/>
-These Files are for Comparison with our method <br/>
+The other Files:  
 `hsv.m` 
 `lab.m`
 `rgbintensity.m`
+<br/> are for Comparison with our method <br/>
